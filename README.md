@@ -8,4 +8,4 @@ Repository that stores analysis scripts
 
 
 ## General Methodology
-![Methods](../media/Ramirez-Diaz_et-al_2025/media/Bioinformatics_Methodology.png)
+![Methods](../media/Bioinformatics_Methodology.png)
